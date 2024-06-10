@@ -23,7 +23,6 @@ const App: React.FC = () => {
     fetchData();
   }, []);
 
-
   return (
     <>
       <div className='container'>
